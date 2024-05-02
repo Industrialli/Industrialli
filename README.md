@@ -1,4 +1,4 @@
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image]([https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://github.com/Industrialli/Industrialli/blob/main/industrialli_cover.jpeg))
 
 ## 🚀 Sobre nós
 
