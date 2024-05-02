@@ -1,3 +1,5 @@
+## 🚀 Sobre nós
+
 A Industrialli vai além das empresas tradicionais. Somos facilitadores da inovação, impulsionando a transformação na indústria.
 
 Buscamos tornar a automação acessível e simples para todos, independente do seu tamanho. Com uma visão voltada para o futuro, nos dedicamos a promover a inovação de forma constante. Acreditamos que essa transformação não deve ser um privilégio de poucos, mas sim uma realidade para todas as empresas.
