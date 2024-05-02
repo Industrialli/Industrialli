@@ -1,3 +1,5 @@
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 ## 🚀 Sobre nós
 
 A Industrialli vai além das empresas tradicionais. Somos facilitadores da inovação, impulsionando a transformação na indústria.
